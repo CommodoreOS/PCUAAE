@@ -30,7 +30,7 @@ You will now have to wait for another hack to come out that will allow you to ru
 How to install PCUAAE on the USB Stick
 =================================
 1. Make Sure the USB Stick uses Fat32 and Master Boot Record.
-2. Install PCUAAE to USB Stick, 
+2. Install PCUAAE to USB Stick, Click on its setuop and browse to the USB Stick you want to use PCUAAE on, and then click on Install button.
 3. Run PCUAAE Startup LHA file in A500-Games Folder in the USB Menu.
 4. Activate Autoboot Mode, it will ask you if you want to when you start PCUAAE from PCUAAE Startup LHA.
 5. Once its finished activating Autoboot Mode, let it restart the machine, if it installed correctly it will reboot back into PCUAAE.
