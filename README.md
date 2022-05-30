@@ -70,11 +70,11 @@ So to do things in `PCUAAE` you need to press `Home Button` and then the other b
 
 About the other Modes
 ======================
-It has 6 modes that you can add by installing them.
+It has 5 modes that you can add by installing them, PCUAAE Mode comes with the Main PCUAAE Setup install.
 
 Run the Mode Setup.exe by double clicking on its setup file and then click on browse to find the USB Stick you want to use PCUAAE on, and then click on Extract button and then click on Extract button to start the install and wait for it to finish, once finished it will disappear.
 
-Modes can be downloaded from PCUAAE v1.0.7
+Modes can be downloaded from PCUAAE v1.0.7... https://github.com/CommodoreOS/PCUAAE/releases/tag/PCUAAEv1.0.7
 
 1. PCUAAE Mode - Load TheCarousel Manhattan v1.0.0 or 1.1.1.
 2. Workbench Mode - Run AMiNIMiga, Your own Workbench or Bulit-in Workbench.
