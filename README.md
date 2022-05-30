@@ -53,6 +53,7 @@ The Mode Changer
 2. You need to install the Modes you want, just run the Mode Set Pack you want to install and install it to the root of the USB Stick.
 3. You can download the Mode packs from PCUAAE v1.07... https://github.com/CommodoreOS/PCUAAE/releases/tag/PCUAAEv1.0.7.
 4. You install the modes the same way as PCUAAE, install them to the USB Stick your using for PCUAAE and to the root of the USB Stick.
+5. Pandory Mode is now available so if you pick its mode then you turn off the A500 and back on it will load it again, Download link is above, all modes are like that, they all start from starting PCUAAE and THE A500 Mini.
 
 There was a error in the Autoboot Mode Setup `PCUAAE Autoboot Mode First Boot Up` it was making 2 Autoboot scripts in the firmware cause one line had a `t` missing on the end of its line, this is fixed now.
 
