@@ -30,7 +30,7 @@ You will now have to wait for another hack to come out that will allow you to ru
 How to install PCUAAE on the USB Stick
 =================================
 1. Make Sure the USB Stick uses Fat32 and Master Boot Record.
-2. Install PCUAAE to USB Stick, Click on its setup file and browse to the USB Stick you want to use PCUAAE on, and then click on Install button.
+2. Install PCUAAE to a USB Stick, Click on its setup file and browse to the USB Stick you want to use PCUAAE on, and then click on Install button.
 3. Run PCUAAE Startup LHA file in A500-Games Folder in the USB Menu.
 4. Activate Autoboot Mode, it will ask you if you want to when you start PCUAAE from PCUAAE Startup LHA.
 5. Once its finished activating Autoboot Mode, let it restart the machine, if it installed correctly it will reboot back into PCUAAE.
@@ -71,6 +71,10 @@ So to do things in `PCUAAE` you need to press `Home Button` and then the other b
 About the other Modes
 ======================
 It has 6 modes that you can add by installing them.
+
+Run the Mode Setup.exe by double clicking on its setup file and then click on browse to find the USB Stick you want to use PCUAAE on, and then click on Extract button and then click on Extract button to start the install and wait for it to finish, once finished it will disappear.
+
+Modes can be downloaded from PCUAAE v1.0.7
 
 1. PCUAAE Mode - Load TheCarousel Manhattan v1.0.0 or 1.1.1.
 2. Workbench Mode - Run AMiNIMiga, Your own Workbench or Bulit-in Workbench.
