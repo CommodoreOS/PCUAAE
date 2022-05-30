@@ -13,7 +13,7 @@ Thanks for reading
 
 Spannernick.
 
-Pandory Mode added to The Mode Changer and with New Background Music and 50/60hz switch under Bash Playlist, this only works in PCUAAE if you run Pandory from USB Menu then it will load Pandory normal.
+Pandory Mode added to The Mode Changer and with New Background Music and 50/60hz switch under Bash Playlist, this only works in PCUAAE if you run Pandory from USB Menu then it will load Pandory normally.
 
 Pandory and PCUAAE in Action... https://youtu.be/lteh5z8EYc8
 
@@ -68,3 +68,11 @@ Or you can use a `keyboard`, plug the keyboard in before turning on the `A500` o
 
 So to do things in `PCUAAE` you need to press `Home Button` and then the other button so like: `Home+X` for `The Mode Changer` and `Home+Y` for `The Carousel Version Changer` but you can not do that in `Workbench Mode` cause `Amiberry` crashes when you press the `Home button` its better to use the keyboard to exit from it.
 
+It has 6 modes that you can add by installing them.
+
+1 PCUAAE Mode - Load TheCarousel Manhattan v1.0.0 or 1.1.1.
+2. Workbench Mode - Run AMiNIMiga, Your own Workbencch or Bulit-in Workbench.
+3. ATARI Mode - You can run ATARI 800, 800XL/XE and 5200 Emulators, like on PCUAE.
+4. LINUX Mode - LXDE based on this OS https://wiki.lxde.org/en/Main_Page and made by jj0 post here https://thec64community.online/thread/487/thec64-windows-mod.
+5. VICE Mode - Run 7 CBM Machines from the VICE Emulator with VICE Mode Config Menu.
+6. Pandory Mode - With New Background Music and 50/60hz switch under Bash Playlist, this only works in PCUAAE if you run Pandory from USB Menu then it will load Pandory normally.
