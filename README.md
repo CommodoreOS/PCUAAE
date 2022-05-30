@@ -72,9 +72,11 @@ About the other Modes
 ======================
 It has 6 modes that you can add by installing them.
 
-1 PCUAAE Mode - Load TheCarousel Manhattan v1.0.0 or 1.1.1.
+1. PCUAAE Mode - Load TheCarousel Manhattan v1.0.0 or 1.1.1.
 2. Workbench Mode - Run AMiNIMiga, Your own Workbencch or Bulit-in Workbench.
-3. ATARI Mode - You can run ATARI 800, 800XL/XE and 5200 Emulators, like on PCUAE.
-4. LINUX Mode - LXDE based on this OS https://wiki.lxde.org/en/Main_Page and made by jj0 post here https://thec64community.online/thread/487/thec64-windows-mod.
-5. VICE Mode - Run 7 CBM Machines from the VICE Emulator with VICE Mode Config Menu.
-6. Pandory Mode - With New Background Music and 50/60hz switch under Bash Playlist, this only works in PCUAAE if you run Pandory from USB Menu then it will load Pandory normally.
+4. ATARI Mode - You can run ATARI 800, 800XL/XE and 5200 Emulators, like on PCUAE.
+5. LINUX Mode - LXDE based on this OS https://wiki.lxde.org/en/Main_Page and made by jj0 post here https://thec64community.online/thread/487/thec64-windows-mod.
+6. VICE Mode - Run 7 CBM Machines from the VICE Emulator with VICE Mode Config Menu.
+7. Pandory Mode - With New Background Music and 50/60hz switch under Bash Playlist, this only works in PCUAAE if you run Pandory from USB Menu then it will load Pandory normally.
+
+
