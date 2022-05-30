@@ -78,7 +78,9 @@ I call them Modes cause RGL added to THEC64 - Carousel Mode, Classic Mode and Bo
 
 Run the Mode Setup.exe by double clicking on its setup file and then click on browse to find the USB Stick you want to use PCUAAE on, and then click on Extract button and then click on Extract button to start the install and wait for it to finish, once finished it will disappear.
 
-Modes can be downloaded from PCUAAE v1.0.7... https://github.com/CommodoreOS/PCUAAE/releases/tag/PCUAAEv1.0.7
+Modes can be downloaded from PCUAAE v1.0.7 release... https://github.com/CommodoreOS/PCUAAE/releases/tag/PCUAAEv1.0.7
+
+Look for the Mode Packs in PCUAAE v1.0.7 release, they are named like this: `pcuaae-atari-mode-pack-1.0.7-setup.exe`
 
 1. PCUAAE Mode - Load TheCarousel Manhattan v1.0.0 or 1.1.1.
 2. Workbench Mode - Run AMiNIMiga, Your own Workbench or Bulit-in Workbench.
