@@ -1,7 +1,7 @@
 # PCUAAE
 PCUAE has just had a baby, its called PCUAAE - Project Carousel USB Amiga Anniversary Edition.
 
-Project Carousel USB Amiga Anniversary Edition(PCUAAE) for THE A500 Mini. PCUAAE Autoboot Start-up Script v1.0.0. PCUAAE - Manhattan Skyline v1.0.0/1.1.0
+Project Carousel USB Amiga Anniversary Edition(PCUAAE) for THE A500 Mini. PCUAAE Autoboot Start-up Script v1.0.0. PCUAAE - Manhattan Skyline v1.0.0/1.1.1
 
 This is for THE A500 Mini or THE A500 Maxi, Its early days yet, THEA500 Mini was released on the 8th April 2022 and not everyone has got there's yet but just wanted to put this out there that this it been made and will get better in time as we learn more about the machine.
 
@@ -13,6 +13,8 @@ Thanks for reading
 
 Spannernick.
 
+New Info PCUAAE v1.1.8
+=======================
 Pandory Mode added to The Mode Changer and with New Background Music and 50/60hz switch under Bash Playlist, this only works in PCUAAE if you run Pandory from USB Menu then it will load Pandory normally.
 
 Pandory and PCUAAE in Action... https://youtu.be/lteh5z8EYc8
