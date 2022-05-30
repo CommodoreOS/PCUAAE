@@ -73,7 +73,8 @@ So to do things in `PCUAAE` you need to press `Home Button` and then the other b
 About the other Modes
 ======================
 It has 5 modes that you can add by installing them, PCUAAE Mode comes with the Main PCUAAE Setup install so thats why there are 6 Modes.
-I call them Modes cause RGL added to THEC64 Carousel Mode, Classic Mode and Boot Mode and they are like modules too... :) part of a module progream that has other modules added to it, to give it more functions.
+
+I call them Modes cause RGL added to THEC64 - Carousel Mode, Classic Mode and Boot Mode so that gave me the idea and they are like modules, part of a module progream that has other modules added to it, to give it more functionality.
 
 Run the Mode Setup.exe by double clicking on its setup file and then click on browse to find the USB Stick you want to use PCUAAE on, and then click on Extract button and then click on Extract button to start the install and wait for it to finish, once finished it will disappear.
 
