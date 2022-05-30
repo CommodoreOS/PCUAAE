@@ -38,8 +38,8 @@ How to install PCUAAE on the USB Stick
 5. Once its finished activating Autoboot Mode, let it restart the machine, if it installed correctly it will reboot back into PCUAAE.
 6. Turn off A500 and install Pandory to the root of the USB Stick.
 7. Plug USB Stick back in A500 and turn it on and wait for PCUAAE to boot up.
-8. start The Mode Changer, hold down Home button and X button together for 2 seconds or until screen goes black. when the menu comes up pick Pandory Mode and wait for it to load Pandory.
-9. Your done... :) if you want to run another Mode just do the same but install and pick a different Mode, the modes are on Github too, download them from PCUAAE Release 1.0.7.
+8. start The Mode Changer, hold down Menu button and X button together for 2 seconds or until screen goes black. when the menu comes up pick Pandory Mode and wait for it to load Pandory.
+9. Your done... :) if you want to run another Mode just do the same but install and pick a different Mode, the modes are on Github too, download them from PCUAAE Release 1.0.7, link below.
 
 The Carousel Version Changer
 =============================
@@ -65,10 +65,17 @@ or you could do a clean install but keep all the modes(WORKBENCH_Mode, LINUX_Mod
 
 About Workbench Mode
 =====================
-In `Workbench Mode` you can press `Menu button`or `Home Button` to get out of `Workbench Mode` and after Workbench reloads then pull out the Power Cable for 2 seconds then plug it back in and `The Mode Changer` should come up then select `PCUAAE Mode` to get out of it, it was the only way I could do it, we really need our own version of Amiberry, or RGLs Amiberry code needs changing and then recompled so the Menu and Home buttons do nothing.
-Or you can use a `keyboard`, plug the keyboard in before turning on the `A500` otherwise the keyboard will not work, then on the `Workbench Screen` press `CTRL+F5` to load `THE Mode Changer`.
+How To Exit Workbench
+======================
 
-So to do things in `PCUAAE` you need to press `Menu Button` and then the other button so like: `Menu+X` for `The Mode Changer` and `Menu+Y` for `The Carousel Version Changer` but you can not do that in `Workbench Mode` cause `Amiberry` crashes when you press the `Menu button` its better to use the keyboard to exit from it.
+Workbench Mode is in the latest release.
+
+There are two ways...
+1. In `Workbench Mode` you can press `Menu button`or `Home Button` to get out of `Workbench Mode` and after Workbench reloads, `let it load up first or you could corupt Workbench`, once its finished loading then pull out the Power Cable for 2 seconds then plug it back in and `The Mode Changer` should come up then select `PCUAAE Mode` to get out of it, it was the only way I could do it, we really need our own version of Amiberry, or RGLs Amiberry code needs changing and then recompled so the Menu and Home buttons do nothing.
+
+2. You can use a `USB Keyboard`, plug the keyboard in before turning on `THEA500 Mini` otherwise the keyboard will not work, then on the `Workbench Screen` press `CTRL+F5` to load `The Mode Changer`.
+
+So to do things in `PCUAAE` you need to press `Menu Button` and then the other button so like: `Menu+X` for `The Mode Changer` and `Menu+Y` for `The Carousel Version Changer` but you can not do that in `Workbench Mode` cause `Amiberry` crashes when you press the `Menu button` its better to use a `USB Keyboard` to exit from it.
 
 About the other Modes
 ======================
@@ -76,7 +83,7 @@ It has 5 modes that you can add by installing them, PCUAAE Mode comes with the M
 
 I call them Modes cause RGL added to THEC64 - Carousel Mode, Classic Mode and Boot Mode so that gave me the idea and they are like modules, part of a module progream that has other modules added to it, to give it more functionality.
 
-Run the Mode Setup.exe by double clicking on its setup file and then click on browse to find the USB Stick you want to use PCUAAE on, and then click on Extract button and then click on Extract button to start the install and wait for it to finish, once finished it will disappear.
+Run the Mode Setup.exe by double clicking on its setup file and then click on browse to find the PCUAAE USB Stick you want to use the Mode on, and then click on Extract button to start the install and wait for it to finish, once finished it will disappear.
 
 Modes can be downloaded from PCUAAE v1.0.7 release... https://github.com/CommodoreOS/PCUAAE/releases/tag/PCUAAEv1.0.7
 
