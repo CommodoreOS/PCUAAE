@@ -30,7 +30,7 @@ You will now have to wait for another hack to come out that will allow you to ru
 How to install PCUAAE on the USB Stick
 =================================
 1. Make Sure the USB Stick uses Fat32 and Master Boot Record.
-2. Install PCUAAE to USB Stick, Click on its setuop and browse to the USB Stick you want to use PCUAAE on, and then click on Install button.
+2. Install PCUAAE to USB Stick, Click on its setup file and browse to the USB Stick you want to use PCUAAE on, and then click on Install button.
 3. Run PCUAAE Startup LHA file in A500-Games Folder in the USB Menu.
 4. Activate Autoboot Mode, it will ask you if you want to when you start PCUAAE from PCUAAE Startup LHA.
 5. Once its finished activating Autoboot Mode, let it restart the machine, if it installed correctly it will reboot back into PCUAAE.
@@ -56,12 +56,14 @@ The Mode Changer
 
 There was a error in the Autoboot Mode Setup `PCUAAE Autoboot Mode First Boot Up` it was making 2 Autoboot scripts in the firmware cause one line had a `t` missing on the end of its line, this is fixed now.
 
-Rerun the setup using the PCUAAE_StartUp.LHA file but remove first the file on the root of the USB Stick called `autoboot_fake_update_disabled` otherwise it will skip it, it should refresh Autoboot Mode and remove the other script from the firmware if it's there, so there is only one then reboot PCUAAE.
+Rerun the Autoboot Mode setup using the PCUAAE_StartUp.LHA file so load PCUAAE from USB Media Access but remove first the file on the root of the USB Stick called `autoboot_fake_update_disabled` if you have not done a clean install otherwise it will skip it, it should refresh Autoboot Mode and remove the other script from the firmware if it's there, so there is only one then reboot PCUAAE.
 
 or you could do a clean install but keep all the modes(WORKBENCH_Mode, LINUX_Mode, VICE_Mode and so on) and delete the PCUAE_Mode folder too, that way you do not need to install the Modes again, just reinstall PCUAAE again.
 
-I made a mistake, in `Workbench Mode` I say press `Menu button` when I mean press `Home Button` so to get out of `Workbench Mode` press `Home` and pull out the Power cable for 2 seconds then plug it back in and `The Mode Changer` should come up then select `PCUAAE Mode` to get out of it.
+About Workbench Mode
+=================
+In `Workbench Mode` you can press `Menu button`or `Home Button` to get out of `Workbench Mode` press `Home` and when screen goes black then pull out the Power cable for 2 seconds then plug it back in and `The Mode Changer` should come up then select `PCUAAE Mode` to get out of it, it was the only way I could do it, we really need our own version of Amiberry, or RGLs Amiberry code needs changing and then recompled so the Menu and Home buttons do nothing.
 Or you can use a `keyboard`, plug the keyboard in before turning on the `A500` otherwise the keyboard will not work, then on the `Workbench Screen` press `CTRL+F5` to load `THE Mode Changer`.
 
-So to do things in `PCUAAE` you need to press `Home Button` and then the other button so like: `Home+F5` for `The Mode Changer` and `Home+F3` for `The Carousel Version Changer` but you can not do that in `Workbench Mode` cause `Amiberry` crashes when you press the `Home button` its better to use the keyboard.
+So to do things in `PCUAAE` you need to press `Home Button` and then the other button so like: `Home+X` for `The Mode Changer` and `Home+Y` for `The Carousel Version Changer` but you can not do that in `Workbench Mode` cause `Amiberry` crashes when you press the `Home button` its better to use the keyboard to exit from it.
 
