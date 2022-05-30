@@ -40,7 +40,7 @@ How to install PCUAAE on the USB Stick
 9. Your done... :) if you want to run another Mode just do the same but install and pick a different Mode, the modes are on Github too, download them from PCUAAE Release 1.0.7.
 
 The Carousel Version Changer
-====================
+=============================
 1. You can change the carousel version from TheCarousel Manhattan v1.0.0 to v1.1.1 and back.
 2. Press Home+Y or CTRL+F3 on a keyboard to load up The Carousel Changer.
 3. Pick one of the carousels in the menu, TheCarousel Manhattan v1.0.0 or TheCarousel Manhattan v1.1.1 and it will load that version.
@@ -48,7 +48,7 @@ The Carousel Version Changer
 and thats it for now, hope this helps.
 
 The Mode Changer
-===============
+==================
 1. You can change the Modes with Home+X buttons or on the keyboard CTRL+F5.
 2. You need to install the Modes you want, just run the Mode Set Pack you want to install and install it to the root of the USB Stick.
 3. You can download the Mode packs from PCUAAE v1.07... https://github.com/CommodoreOS/PCUAAE/releases/tag/PCUAAEv1.0.7.
@@ -62,12 +62,14 @@ Rerun the Autoboot Mode setup using the PCUAAE_StartUp.LHA file so load PCUAAE f
 or you could do a clean install but keep all the modes(WORKBENCH_Mode, LINUX_Mode, VICE_Mode and so on) and delete the PCUAE_Mode folder too, that way you do not need to install the Modes again, just reinstall PCUAAE again.
 
 About Workbench Mode
-=================
+=====================
 In `Workbench Mode` you can press `Menu button`or `Home Button` to get out of `Workbench Mode` press `Home` and when screen goes black then pull out the Power cable for 2 seconds then plug it back in and `The Mode Changer` should come up then select `PCUAAE Mode` to get out of it, it was the only way I could do it, we really need our own version of Amiberry, or RGLs Amiberry code needs changing and then recompled so the Menu and Home buttons do nothing.
 Or you can use a `keyboard`, plug the keyboard in before turning on the `A500` otherwise the keyboard will not work, then on the `Workbench Screen` press `CTRL+F5` to load `THE Mode Changer`.
 
 So to do things in `PCUAAE` you need to press `Home Button` and then the other button so like: `Home+X` for `The Mode Changer` and `Home+Y` for `The Carousel Version Changer` but you can not do that in `Workbench Mode` cause `Amiberry` crashes when you press the `Home button` its better to use the keyboard to exit from it.
 
+About the other Modes
+======================
 It has 6 modes that you can add by installing them.
 
 1 PCUAAE Mode - Load TheCarousel Manhattan v1.0.0 or 1.1.1.
