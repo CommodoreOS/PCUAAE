@@ -51,7 +51,7 @@ and thats it for now, hope this helps.
 
 The Mode Changer
 ==================
-1. You can change the Modes with Home+X buttons or on the keyboard CTRL+F5.
+1. You can change the Modes with Menu+X buttons or on the keyboard CTRL+F5.
 2. You need to install the Modes you want, just run the Mode Set Pack you want to install and install it to the root of the USB Stick.
 3. You can download the Mode packs from PCUAAE v1.07... https://github.com/CommodoreOS/PCUAAE/releases/tag/PCUAAEv1.0.7.
 4. You install the modes the same way as PCUAAE, install them to the USB Stick your using for PCUAAE and to the root of the USB Stick.
@@ -65,10 +65,10 @@ or you could do a clean install but keep all the modes(WORKBENCH_Mode, LINUX_Mod
 
 About Workbench Mode
 =====================
-In `Workbench Mode` you can press `Menu button`or `Home Button` to get out of `Workbench Mode` press `Home` and when screen goes black then pull out the Power cable for 2 seconds then plug it back in and `The Mode Changer` should come up then select `PCUAAE Mode` to get out of it, it was the only way I could do it, we really need our own version of Amiberry, or RGLs Amiberry code needs changing and then recompled so the Menu and Home buttons do nothing.
+In `Workbench Mode` you can press `Menu button`or `Home Button` to get out of `Workbench Mode` and after Workbench reloads then pull out the Power Cable for 2 seconds then plug it back in and `The Mode Changer` should come up then select `PCUAAE Mode` to get out of it, it was the only way I could do it, we really need our own version of Amiberry, or RGLs Amiberry code needs changing and then recompled so the Menu and Home buttons do nothing.
 Or you can use a `keyboard`, plug the keyboard in before turning on the `A500` otherwise the keyboard will not work, then on the `Workbench Screen` press `CTRL+F5` to load `THE Mode Changer`.
 
-So to do things in `PCUAAE` you need to press `Home Button` and then the other button so like: `Home+X` for `The Mode Changer` and `Home+Y` for `The Carousel Version Changer` but you can not do that in `Workbench Mode` cause `Amiberry` crashes when you press the `Home button` its better to use the keyboard to exit from it.
+So to do things in `PCUAAE` you need to press `Menu Button` and then the other button so like: `Menu+X` for `The Mode Changer` and `Menu+Y` for `The Carousel Version Changer` but you can not do that in `Workbench Mode` cause `Amiberry` crashes when you press the `Menu button` its better to use the keyboard to exit from it.
 
 About the other Modes
 ======================
