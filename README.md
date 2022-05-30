@@ -76,9 +76,8 @@ It has 6 modes that you can add by installing them.
 2. Workbench Mode - Run AMiNIMiga, Your own Workbench or Bulit-in Workbench.
 4. ATARI Mode - You can run ATARI 800, 800XL/XE and 5200 Emulators, like on PCUAE.
 5. LINUX Mode - LXDE based on this OS https://wiki.lxde.org/en/Main_Page and made by jj0 post here https://thec64community.online/thread/487/thec64-windows-mod.
-6. VICE Mode - Run 7 CBM Machines from the VICE Emulator with VICE Mode Config Menu.
-7. Pandory Mode - With New Background Music and 50/60hz switch under Bash Playlist.
+7. VICE Mode - Run 7 CBM Machines from the VICE Emulator with VICE Mode Config Menu.
+8. Pandory Mode - With New Background Music and 50/60hz switch under Bash Playlist.
 
 You will need to download AMiNIMiga from its website... https://www.aminimiga.com/
-
 Pandory Download link ... https://github.com/emuchicken/pandory-a500/?fbclid=IwAR1pvE_1kYJXwSttG64coDvgdeyOiIUmXojErOfDvR6ij9soWvNO4oTnvM4
