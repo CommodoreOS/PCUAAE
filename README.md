@@ -80,4 +80,5 @@ It has 6 modes that you can add by installing them.
 7. Pandory Mode - With New Background Music and 50/60hz switch under Bash Playlist.
 
 You will need to download AMiNIMiga from its website... https://www.aminimiga.com/
+
 Pandory Download link ... https://github.com/emuchicken/pandory-a500/?fbclid=IwAR1pvE_1kYJXwSttG64coDvgdeyOiIUmXojErOfDvR6ij9soWvNO4oTnvM4
