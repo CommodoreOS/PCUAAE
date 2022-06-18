@@ -1,4 +1,6 @@
 # PCUAAE
+***PCUAAE will be caming part of PCUAE soon, the next version will be called PCUAE v2.0.0 and have PCUAAE inside it and be released under PCUAE repository but I will still keep this up.***
+
 PCUAE has just had a baby, its called PCUAAE - Project Carousel USB Amiga Anniversary Edition.
 
 Project Carousel USB Amiga Anniversary Edition(PCUAAE) for THE A500 Mini. PCUAAE Autoboot Start-up Script v1.0.0. PCUAAE - Manhattan Skyline v1.0.0/1.1.1
